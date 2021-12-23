@@ -29,7 +29,7 @@ const Auth = () => {
     const { username, password, phoneNumber, avatarURL } = form;
 
     // const URL = "http://localhost:5000/auth";
-    const URL = "https://medical-pager-stream.herokuapp.com/auth";
+    const URL = "https://sheltered-journey-43321.herokuapp.com/auth";
 
     const {
       data: { token, userId, hashedPassword, fullName },
