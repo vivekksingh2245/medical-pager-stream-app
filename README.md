@@ -1,4 +1,4 @@
-# [Medical Pager Chat App](https://medical-pager-stream.netlify.app/)
+# [Medical Pager Chat App](https://medical-pager-stream-app.netlify.app/)
 
 ![Chat Application](https://i.ibb.co/hsvcw4V/image.png)
 
